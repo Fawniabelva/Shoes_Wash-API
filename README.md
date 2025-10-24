@@ -156,13 +156,14 @@ npm run dev
 
 API publik dapat diakses via:
 
-https://shoe-wash-api-three.vercel.app/api/items
+https://shoes-wash-api.vercel.app/
 
 
 
 ## Repository GitHub
 
-(https://github.com/nailazza/shoe-wash-api/)](https://github.com/Fawniabelva/Shoes_Wash-API)
+https://github.com/Fawniabelva/Shoes_Wash-API
+
 
 
 
